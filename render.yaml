@@ -1,0 +1,7 @@
+
+services:
+  - type: web
+    name: finanzas-empresas-dashboard
+    env: docker
+    plan: free
+    autoDeploy: true
